@@ -1,3 +1,6 @@
+Deloyed at : https://guarded-reaches-36078.herokuapp.com/posts
+
+
 # READ THE README ------ THAT'S WHY IT'S CALLED A "README"
 
 ## OVERVIEW
